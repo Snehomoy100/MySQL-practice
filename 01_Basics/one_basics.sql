@@ -1,17 +1,17 @@
--- CREATE DATABASE photo_store;
+CREATE DATABASE photo_store;
 
--- SHOW DATABASES;
+SHOW DATABASES;
 
--- SELECT DATABASE();
+SELECT DATABASE();
 
--- USE photo_store;
+USE photo_store;
 
--- SELECT DATABASE();
+SELECT DATABASE();
 
--- CREATE TABLE cameras(
---     model_name VARCHAR(30),
---     quantity INT
--- );
+CREATE TABLE cameras(
+    model_name VARCHAR(30),
+    quantity INT
+);
 
 DESC cameras;
 
