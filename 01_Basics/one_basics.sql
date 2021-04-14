@@ -53,6 +53,6 @@
 -- ("EOS-R5", 35),
 -- ("1-D", 50);
 
-DESC canon_cameras;
+
 
 
