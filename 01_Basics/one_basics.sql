@@ -23,7 +23,7 @@
 
 -- TODO: here we have deleted the cameras table 
 
-USE photo_store;
+-- USE photo_store;
 
 -- DROP TABLE cameras;
 
@@ -44,5 +44,15 @@ USE photo_store;
 -- DESC canon_cameras;
 
 
-SHOW TABLES;
+-- TODO: now we have to insert some of the values inside of the canon_cameras table
+
+-- INSERT INTO canon_cameras(model_name, quantity)
+-- VALUES("70-D", 12),
+-- ("80-D", 14),
+-- ("EOS-R", 20),
+-- ("EOS-R5", 35),
+-- ("1-D", 50);
+
+DESC canon_cameras;
+
 
